@@ -1,0 +1,4 @@
+G:\Lab\TDD\LojaMusica\scr\Loja_Domain\bin\Debug\Loja_Domain.dll
+G:\Lab\TDD\LojaMusica\scr\Loja_Domain\bin\Debug\Loja_Domain.pdb
+G:\Lab\TDD\LojaMusica\scr\Loja_Domain\obj\Debug\Loja_Domain.dll
+G:\Lab\TDD\LojaMusica\scr\Loja_Domain\obj\Debug\Loja_Domain.pdb

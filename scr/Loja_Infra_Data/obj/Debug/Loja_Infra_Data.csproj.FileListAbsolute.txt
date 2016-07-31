@@ -1,0 +1,12 @@
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\Loja_Infra_Data.dll.config
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\Loja_Infra_Data.dll
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\Loja_Infra_Data.pdb
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\EntityFramework.dll
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\Loja_Domain.dll
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\Loja_Domain.pdb
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\EntityFramework.xml
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\obj\Debug\Loja_Infra_Data.csprojResolveAssemblyReference.cache
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\obj\Debug\Loja_Infra_Data.dll
+G:\Lab\TDD\LojaMusica\scr\Loja_Infra_Data\obj\Debug\Loja_Infra_Data.pdb
